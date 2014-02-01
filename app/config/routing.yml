@@ -1,0 +1,4 @@
+shopping_list:
+    resource: "@ShoppingListBundle/Resources/config/routing.yml"
+    prefix:   /
+

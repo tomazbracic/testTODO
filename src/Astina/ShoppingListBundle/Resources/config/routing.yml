@@ -1,0 +1,3 @@
+shopping_list_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: ShoppingListBundle:Default:index }
